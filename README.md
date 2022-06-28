@@ -2,7 +2,7 @@
 
 ## Alumna de diseño
 
-Primer parrafo
+Segundo trimestre
 
 Ramos
 
@@ -11,4 +11,4 @@ Ramos
 * Tecnología creativa
 * Fabricación digital
 
-Listo
+Suerte
